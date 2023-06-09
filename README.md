@@ -84,25 +84,30 @@ Layers Created:
 
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/b9fde894-53ff-47ad-b386-fb1588e07d70)
 
-###Landscape Material:
+Landscape Material:
 
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/bda0426f-d540-4659-b589-bcb63a24a300)
 
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/9660267e-5e89-4275-b34c-13e39575af4f)
 
-###Paint Material Created:
+Paint Material Created:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/6f958d4d-1359-41da-be7d-6de6cba69237)
 
-###Foliage:
+Foliage:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/4be75f8a-2a6f-41bf-89ea-a942c6198e90)
 
-###3D House Model:
+3D House Model:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/26312abe-5456-4b63-930f-8dda4fa4b426)
 
-###3D Bridge Model:
+3D Bridge Model:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/dc758f79-d834-413c-a011-55222b9fa7bf)
 
-###Terrain Created:
+Terrain Created:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/ccec20d0-5248-4ee2-8265-39d904e140d6)
 
 
