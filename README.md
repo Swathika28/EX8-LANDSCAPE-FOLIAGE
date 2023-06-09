@@ -80,10 +80,12 @@ optimizing performance until you achieve the desired result.
 
 ## OUTPUT:
 
-###Layers Created:
+Layers Created:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/b9fde894-53ff-47ad-b386-fb1588e07d70)
 
 ###Landscape Material:
+
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/bda0426f-d540-4659-b589-bcb63a24a300)
 
 ![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/9660267e-5e89-4275-b34c-13e39575af4f)
