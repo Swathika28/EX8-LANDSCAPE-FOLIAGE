@@ -80,12 +80,29 @@ optimizing performance until you achieve the desired result.
 
 ## OUTPUT:
 
-### Full View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/7fe1069e-b81a-4edc-8735-c20ae6732234)
+###Layers Created:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/b9fde894-53ff-47ad-b386-fb1588e07d70)
 
+###Landscape Material:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/bda0426f-d540-4659-b589-bcb63a24a300)
 
-### Player View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/4e48cfa1-8803-40b2-957e-22466f7298dd)
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/9660267e-5e89-4275-b34c-13e39575af4f)
+
+###Paint Material Created:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/6f958d4d-1359-41da-be7d-6de6cba69237)
+
+###Foliage:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/4be75f8a-2a6f-41bf-89ea-a942c6198e90)
+
+###3D House Model:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/26312abe-5456-4b63-930f-8dda4fa4b426)
+
+###3D Bridge Model:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/dc758f79-d834-413c-a011-55222b9fa7bf)
+
+###Terrain Created:
+![image](https://github.com/Swathika28/EX8-LANDSCAPE-FOLIAGE/assets/95024854/ccec20d0-5248-4ee2-8265-39d904e140d6)
+
 
 ## RESULT:
 
